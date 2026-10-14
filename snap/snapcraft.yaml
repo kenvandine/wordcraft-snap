@@ -1,7 +1,7 @@
 name: wordcraft
 title: WordCraft
 base: core24
-version: '0.6.1'
+version: '0.7.0'
 summary: Word processor that opens and saves Word files
 description: |
   WordCraft is an open-source, native word processor for writing and designing documents, with support for opening and saving Word (DOCX) files.
